@@ -11,7 +11,7 @@ class LatestMovieReviewsContainer extends Component{
   constructor(){
     super();
     this.state={
-      reviews:[];
+      reviews:[]
     }
   }
 }
